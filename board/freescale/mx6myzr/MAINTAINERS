@@ -1,0 +1,8 @@
+MX6MYZR BOARD
+M:  Chen Yanbin <yanbin_ch@163.com>
+S:  Maintained
+F:  board/freescale/mx6myzr/
+F:  include/configs/mx6myzr.h
+F:  configs/mx6dlmyzr_defconfig
+F:  configs/mx6qmyzr_defconfig
+F:  configs/mx6myzr_spl_defconfig
